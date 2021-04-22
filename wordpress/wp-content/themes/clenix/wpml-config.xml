@@ -1,0 +1,62 @@
+<wpml-config>
+    <admin-texts>
+        <key name="clenix">
+            <key name="phone" />
+            <key name="email" />
+            <key name="Opening" />
+            <key name="address" />
+            <key name="header_address_txt" />
+            <key name="header_hotline_txt" />
+            <key name="header_mailus_txt" />
+            <key name="header_opening_txt" />
+            <key name="online_button_text" />
+            <key name="copyright_text" />
+            <key name="error_title" />
+            <key name="error_text1" />
+            <key name="error_text2" />
+            <key name="error_buttontext" />
+            <key name="team_slug" />
+            <key name="service_slug" />
+            <key name="portfolio_slug" />
+            <key name="testimonial_slug" />
+            <key name="wc_related_title" />
+            <key name="wc_related_subtitle" />
+        </key>
+    </admin-texts>
+	<custom-types>
+        <custom-type translate="1">clenix_team</custom-type>
+        <custom-type translate="1">clenix_service</custom-type>
+        <custom-type translate="1">clenix_portfolio</custom-type>
+        <custom-type translate="1">clenix_testim</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">clenix_team_category</taxonomy>
+        <taxonomy translate="1">clenix_service_category</taxonomy>
+        <taxonomy translate="1">clenix_portfolio_category</taxonomy>
+        <taxonomy translate="1">clenix_testimonial_category</taxonomy>
+    </taxonomies>
+	<custom-fields>
+       <custom-field action="translate">clenix_team_designation</custom-field>
+       <custom-field action="translate">clenix_team_email</custom-field>
+       <custom-field action="translate">clenix_team_phone</custom-field>
+       <custom-field action="translate">clenix_team_address</custom-field>
+       <custom-field action="translate">clenix_team_contact_form</custom-field>
+       <custom-field action="translate">skill_name</custom-field>
+       <custom-field action="translate">skill_value</custom-field>	   
+       <custom-field action="translate">clenix_service_info_title</custom-field>
+       <custom-field action="translate">clenix_service_price</custom-field>
+       <custom-field action="translate">clenix_service_cleaning_hour</custom-field>
+       <custom-field action="translate">clenix_service_no</custom-field>
+       <custom-field action="translate">clenix_service_visiting_hour</custom-field>
+       <custom-field action="translate">clenix_service_contact</custom-field>
+       <custom-field action="translate">clenix_service_email</custom-field>	   
+       <custom-field action="translate">clenix_service_button</custom-field>	   
+       <custom-field action="translate">clenix_port_info_title</custom-field>
+       <custom-field action="translate">clenix_port_des</custom-field>
+       <custom-field action="translate">clenix_client_name</custom-field>
+       <custom-field action="translate">clenix_start_date</custom-field>       
+       <custom-field action="translate">clenix_finish_date</custom-field>       
+       <custom-field action="translate">clenix_website</custom-field>       
+       <custom-field action="translate">clenix_tes_designation</custom-field>       
+   </custom-fields>
+</wpml-config>

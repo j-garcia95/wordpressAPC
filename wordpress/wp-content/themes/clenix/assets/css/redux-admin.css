@@ -1,0 +1,17 @@
+.redux-dev-mode-notice-container {
+	display: none;
+}
+.redux-container-image_select .redux-image-select {
+	margin: 0 0 10px !important;
+}
+.redux-container .redux-main img {
+    height: auto;
+    max-width: 100%;
+    width: inherit !important;
+}
+
+/*common radio*/
+.common_radio:checked ~ img {
+    background-color: #278ab7;
+	border: 3px solid #278ab7;
+}
