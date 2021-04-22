@@ -1,0 +1,3058 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clenix Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-16 11:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: widget/rt-open-hour-widget.php:122
+msgid "-"
+msgstr ""
+
+#: post-meta.php:152 post-meta.php:173
+msgid "0px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:20 elementor/widgets/portfolio-grid.php:20
+#: elementor/widgets/portfolio-isotope.php:20
+#: elementor/widgets/portfolio-masonry.php:20
+#: elementor/widgets/portfolio-slider.php:20 elementor/widgets/post-grid.php:21
+#: elementor/widgets/rt-team.php:20 elementor/widgets/service-grid.php:20
+#: elementor/widgets/service-isotope.php:20
+#: elementor/widgets/service-slider.php:20 elementor/widgets/service-tab.php:17
+#: elementor/widgets/testimonial.php:20
+msgid "1 Col"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:173
+#: elementor/widgets/portfolio-slider.php:292
+#: elementor/widgets/post-grid.php:289 elementor/widgets/rt-team.php:271
+#: elementor/widgets/service-slider.php:315
+#: elementor/widgets/testimonial.php:278
+msgid "1 Second"
+msgstr ""
+
+#: post-meta.php:162 post-meta.php:183
+msgid "100px"
+msgstr ""
+
+#: post-meta.php:153 post-meta.php:174
+msgid "10px"
+msgstr ""
+
+#: post-meta.php:163 post-meta.php:184
+msgid "110px"
+msgstr ""
+
+#: post-meta.php:164 post-meta.php:185
+msgid "120px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:21 elementor/widgets/portfolio-grid.php:21
+#: elementor/widgets/portfolio-isotope.php:21
+#: elementor/widgets/portfolio-masonry.php:21
+#: elementor/widgets/portfolio-slider.php:21 elementor/widgets/post-grid.php:22
+#: elementor/widgets/rt-team.php:21 elementor/widgets/service-grid.php:21
+#: elementor/widgets/service-isotope.php:21
+#: elementor/widgets/service-slider.php:21 elementor/widgets/service-tab.php:18
+#: elementor/widgets/testimonial.php:21
+msgid "2 Col"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:172
+#: elementor/widgets/portfolio-slider.php:291
+#: elementor/widgets/post-grid.php:288 elementor/widgets/rt-team.php:270
+#: elementor/widgets/service-slider.php:314
+#: elementor/widgets/testimonial.php:277
+msgid "2 Seconds"
+msgstr ""
+
+#: post-meta.php:154 post-meta.php:175
+msgid "20px"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:49
+msgid "29 Street, Melbourne City, Australia # 34 Road, House #10."
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:22 elementor/widgets/portfolio-grid.php:22
+#: elementor/widgets/portfolio-isotope.php:22
+#: elementor/widgets/portfolio-masonry.php:22
+#: elementor/widgets/portfolio-slider.php:22 elementor/widgets/post-grid.php:23
+#: elementor/widgets/rt-team.php:22 elementor/widgets/service-grid.php:22
+#: elementor/widgets/service-isotope.php:22
+#: elementor/widgets/service-slider.php:22 elementor/widgets/service-tab.php:19
+#: elementor/widgets/testimonial.php:22
+msgid "3 Col"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:171
+#: elementor/widgets/portfolio-slider.php:290
+#: elementor/widgets/post-grid.php:287 elementor/widgets/rt-team.php:269
+#: elementor/widgets/service-slider.php:313
+#: elementor/widgets/testimonial.php:276
+msgid "3 Seconds"
+msgstr ""
+
+#: post-meta.php:155 post-meta.php:176
+msgid "30px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:23 elementor/widgets/portfolio-grid.php:23
+#: elementor/widgets/portfolio-isotope.php:23
+#: elementor/widgets/portfolio-masonry.php:23
+#: elementor/widgets/portfolio-slider.php:23 elementor/widgets/post-grid.php:24
+#: elementor/widgets/rt-team.php:23 elementor/widgets/service-grid.php:23
+#: elementor/widgets/service-isotope.php:23
+#: elementor/widgets/service-slider.php:23 elementor/widgets/service-tab.php:20
+#: elementor/widgets/testimonial.php:23
+msgid "4 Col"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:170
+#: elementor/widgets/portfolio-slider.php:289
+#: elementor/widgets/post-grid.php:286 elementor/widgets/rt-team.php:268
+#: elementor/widgets/service-slider.php:312
+#: elementor/widgets/testimonial.php:275
+msgid "4 Seconds"
+msgstr ""
+
+#: post-meta.php:156 post-meta.php:177
+msgid "40px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:24
+msgid "5 Col"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:169
+#: elementor/widgets/portfolio-slider.php:288
+#: elementor/widgets/post-grid.php:285 elementor/widgets/rt-team.php:267
+#: elementor/widgets/service-slider.php:311
+#: elementor/widgets/testimonial.php:274
+msgid "5 Seconds"
+msgstr ""
+
+#: post-meta.php:157 post-meta.php:178
+msgid "50px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:25 elementor/widgets/portfolio-grid.php:24
+#: elementor/widgets/portfolio-isotope.php:24
+#: elementor/widgets/portfolio-masonry.php:24
+#: elementor/widgets/portfolio-slider.php:24 elementor/widgets/post-grid.php:25
+#: elementor/widgets/rt-team.php:24 elementor/widgets/service-grid.php:24
+#: elementor/widgets/service-isotope.php:24
+#: elementor/widgets/service-slider.php:24 elementor/widgets/service-tab.php:21
+#: elementor/widgets/testimonial.php:24
+msgid "6 Col"
+msgstr ""
+
+#: post-meta.php:158 post-meta.php:179
+msgid "60px"
+msgstr ""
+
+#: post-meta.php:159 post-meta.php:180
+msgid "70px"
+msgstr ""
+
+#: post-meta.php:160 post-meta.php:181
+msgid "80px"
+msgstr ""
+
+#: post-meta.php:161 post-meta.php:182
+msgid "90px"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:54
+msgid "About Clenix"
+msgstr ""
+
+#: widget/social-widget.php:92
+msgid "About Company"
+msgstr ""
+
+#: elementor/widgets/about-info.php:31
+msgid "About Info"
+msgstr ""
+
+#: elementor/widgets/about-info.php:33
+msgid "About Info 1"
+msgstr ""
+
+#: elementor/widgets/about-info.php:34
+msgid "About Info 2"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:35
+msgid "About Style"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:37
+msgid "About Style 1"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:38
+msgid "About Style 2 ( Content Fulied )"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:39
+msgid "About Style 3 ( Content Fulied )"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:40
+msgid "About Style 4 ( Angle Bagckground )"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:48
+#: elementor/widgets/about-info.php:42
+#: elementor/widgets/text-with-button.php:91
+msgid "About Us"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:149
+msgid "Active Price Table"
+msgstr ""
+
+#: widget/sidebar-generator.php:40
+msgid "Add"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:65
+msgid "Add Address"
+msgstr ""
+
+#: elementor/widgets/portfolio-isotope.php:64
+#: elementor/widgets/portfolio-masonry.php:64
+#: elementor/widgets/service-isotope.php:64
+msgid "Add as many Categories as you want"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:57
+msgid "Add as many logos as you want"
+msgstr ""
+
+#: elementor/widgets/slider.php:47
+msgid "Add as many slides as you want"
+msgstr ""
+
+#: widget/sidebar-generator.php:31
+msgid "Add New Sidebar"
+msgstr ""
+
+#: post-meta.php:283
+msgid "Add New Skill"
+msgstr ""
+
+#: post-meta.php:264 widget/address-widget.php:84
+#: elementor/widgets/contact-address.php:48
+#: elementor/widgets/contact-info.php:48
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:53
+msgid "Address Icon"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:59
+msgid "Address Label"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:42
+msgid "Address Tile"
+msgstr ""
+
+#: widget/address-widget.php:13
+msgid "Address Widget"
+msgstr ""
+
+#: elementor/widgets/info-box.php:93 elementor/widgets/title.php:51
+msgid "Align Center"
+msgstr ""
+
+#: elementor/widgets/info-box.php:92 elementor/widgets/title.php:50
+msgid "Align Left"
+msgstr ""
+
+#: elementor/widgets/info-box.php:94 elementor/widgets/title.php:52
+msgid "Align right"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:96
+msgid "Alignment"
+msgstr ""
+
+#: elementor/views/portfolio-isotope-1.php:49
+#: elementor/views/portfolio-isotope-2.php:49
+#: elementor/views/portfolio-masonry-1.php:50
+#: elementor/views/portfolio-masonry-2.php:50
+#: elementor/views/service-isotope-1.php:49
+#: elementor/views/service-isotope-2.php:49
+msgid "All"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:40 elementor/widgets/rt-team.php:38
+#: elementor/widgets/service-tab.php:33 elementor/widgets/testimonial.php:45
+msgid "All Categories"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:81
+msgid "All our projects incorporate a unique artistic image functional."
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:204
+#: elementor/widgets/portfolio-isotope.php:222
+#: elementor/widgets/portfolio-masonry.php:222
+#: elementor/widgets/service-grid.php:190
+msgid "ALL PORTFOLIO"
+msgstr ""
+
+#: elementor/widgets/service-isotope.php:218
+msgid "All Services"
+msgstr ""
+
+#: elementor/widgets/counter.php:108 elementor/widgets/progress-circle.php:86
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor/widgets/counter.php:115 elementor/widgets/progress-circle.php:93
+msgid "Animation Steps"
+msgstr ""
+
+#: widget/sidebar-generator.php:194
+msgid "Are you sure you want to remove this custom sidebar"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:72
+#: elementor/widgets/portfolio-isotope.php:83
+#: elementor/widgets/portfolio-masonry.php:83
+#: elementor/widgets/portfolio-slider.php:66 elementor/widgets/post-grid.php:70
+#: elementor/widgets/service-grid.php:70
+#: elementor/widgets/service-isotope.php:83
+#: elementor/widgets/service-slider.php:76
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:148
+#: elementor/widgets/portfolio-slider.php:267
+#: elementor/widgets/post-grid.php:264 elementor/widgets/rt-team.php:246
+#: elementor/widgets/service-slider.php:290 elementor/widgets/slider.php:149
+#: elementor/widgets/testimonial.php:253
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:167
+#: elementor/widgets/portfolio-slider.php:286
+#: elementor/widgets/post-grid.php:283 elementor/widgets/rt-team.php:265
+#: elementor/widgets/service-slider.php:309
+#: elementor/widgets/testimonial.php:272
+msgid "Autoplay Interval"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:182
+#: elementor/widgets/portfolio-slider.php:301
+#: elementor/widgets/post-grid.php:298 elementor/widgets/rt-team.php:280
+#: elementor/widgets/service-slider.php:324
+#: elementor/widgets/testimonial.php:287
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:72
+msgid "Awesome font color"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:83
+msgid "Awesome font size"
+msgstr ""
+
+#: post-meta.php:215 elementor/widgets/pricing-table.php:183
+msgid "Background Color"
+msgstr ""
+
+#: post-meta.php:214 elementor/widgets/video.php:52
+#: elementor/widgets/video.php:57
+msgid "Background Image"
+msgstr ""
+
+#: post-meta.php:190
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:225
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:220
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:210
+msgid "Banner Background Type"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:103
+msgid "Basic"
+msgstr ""
+
+#: widget/social-widget.php:149
+msgid "Behance Plus URL"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:54
+msgid "Bgcolor"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:134
+msgid "bgcolor Color"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:141
+#: elementor/widgets/service-tab.php:104
+msgid "Book Now"
+msgstr ""
+
+#: elementor/widgets/info-box.php:64
+msgid "Box Background Color"
+msgstr ""
+
+#: elementor/widgets/info-box.php:78
+msgid "Box background hover color"
+msgstr ""
+
+#: post-meta.php:200
+msgid "Breadcrumb"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:82 elementor/widgets/cta.php:113
+#: elementor/widgets/text-with-button.php:113
+msgid "Button 1"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:83 elementor/widgets/cta.php:114
+#: elementor/widgets/text-with-button.php:114
+msgid "Button 2"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:71
+#: elementor/widgets/text-with-button.php:102
+msgid "Button Display"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:209
+#: elementor/widgets/portfolio-isotope.php:227
+#: elementor/widgets/portfolio-masonry.php:227
+#: elementor/widgets/rt-team.php:165 elementor/widgets/service-grid.php:195
+#: elementor/widgets/service-isotope.php:223
+msgid "Button Link"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:80 elementor/widgets/cta.php:111
+#: elementor/widgets/text-with-button.php:111
+msgid "Button Style"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:91 elementor/widgets/cta.php:122
+#: elementor/widgets/info-box.php:234 elementor/widgets/portfolio-grid.php:202
+#: elementor/widgets/portfolio-isotope.php:220
+#: elementor/widgets/portfolio-masonry.php:220
+#: elementor/widgets/portfolio-slider.php:188
+#: elementor/widgets/post-grid.php:125 elementor/widgets/pricing-table.php:140
+#: elementor/widgets/pricing-table.php:166 elementor/widgets/rt-team.php:157
+#: elementor/widgets/service-grid.php:188
+#: elementor/widgets/service-isotope.php:216
+#: elementor/widgets/service-slider.php:146
+#: elementor/widgets/service-tab.php:103 elementor/widgets/slider.php:110
+#: elementor/widgets/text-with-button.php:122 elementor/widgets/video.php:63
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:98 elementor/widgets/cta.php:129
+#: elementor/widgets/service-tab.php:110 elementor/widgets/slider.php:116
+#: elementor/widgets/text-with-button.php:129
+msgid "Button URL"
+msgstr ""
+
+#: elementor/views/post-grid-1.php:74 elementor/views/post-grid-2.php:84
+#: elementor/views/post-grid-3.php:82 elementor/views/post-grid-3.php:122
+#: elementor/views/post-slider-1.php:73
+msgid "by "
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:84
+#: elementor/widgets/portfolio-isotope.php:95
+#: elementor/widgets/portfolio-masonry.php:95
+#: elementor/widgets/portfolio-slider.php:78 elementor/widgets/post-grid.php:82
+#: elementor/widgets/service-grid.php:82
+#: elementor/widgets/service-isotope.php:95
+#: elementor/widgets/service-slider.php:88
+msgid "By Name"
+msgstr ""
+
+#: elementor/widgets/portfolio-isotope.php:69
+#: elementor/widgets/portfolio-masonry.php:69
+#: elementor/widgets/post-grid.php:89 elementor/widgets/rt-team.php:80
+#: elementor/widgets/service-isotope.php:69
+#: elementor/widgets/service-tab.php:59 elementor/widgets/testimonial.php:73
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:104
+#: elementor/widgets/portfolio-isotope.php:115
+#: elementor/widgets/portfolio-masonry.php:115
+#: elementor/widgets/portfolio-slider.php:98
+msgid "Category Name Display"
+msgstr ""
+
+#: elementor/widgets/counter.php:51 elementor/widgets/rt-divider.php:103
+#: elementor/widgets/text-with-button.php:48
+msgid "Center"
+msgstr ""
+
+#: post-meta.php:385
+msgid "Choose a Icon for your service"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:62
+msgid "Circle Height"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:50
+msgid "Circle Number"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:68
+msgid "Circle thickness"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:56
+msgid "Circle Width"
+msgstr ""
+
+#: clenix-core.php:202
+msgid "Cleaning Hours"
+msgstr ""
+
+#: widget/social-widget.php:16
+msgid "Clenix : (For Footer) Social Link widget with Description"
+msgstr ""
+
+#. Base ID
+#: widget/address-widget.php:12
+msgid "Clenix : Address (for footer)"
+msgstr ""
+
+#: widget/rt-feature-post.php:13
+msgid "Clenix : Feature Posts display"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:14
+msgid "Clenix : Opening Hours"
+msgstr ""
+
+#: widget/rt-post-box.php:13
+msgid "Clenix : Posts display Box"
+msgstr ""
+
+#: widget/rt-post-tab.php:13
+msgid "Clenix : Posts display Tab"
+msgstr ""
+
+#: widget/rt-product-box.php:13
+msgid "Clenix : Product display Box"
+msgstr ""
+
+#: widget/rt-recent-post-widget.php:13
+msgid "Clenix : Recent Posts"
+msgstr ""
+
+#: widget/social-widget.php:19
+msgid "Clenix : Social Widget"
+msgstr ""
+
+#. Name of the plugin
+msgid "Clenix Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Clenix Core Plugin for Clenix Theme"
+msgstr ""
+
+#. Base ID
+#: widget/about-widget.php:12
+msgid "Clenix: About Info"
+msgstr ""
+
+#: widget/about-widget.php:13
+msgid "Clenix: About Widget"
+msgstr ""
+
+#. Base ID
+#: widget/rt-calltoaction-widget.php:12
+msgid "Clenix: Call To Action"
+msgstr ""
+
+#: widget/rt-calltoaction-widget.php:13
+msgid "Clenix: Call To Action Widget"
+msgstr ""
+
+#: post-meta.php:415
+msgid "Client"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:43
+msgid "Closed"
+msgstr ""
+
+#: elementor/widgets/counter.php:126
+msgid "Colors"
+msgstr ""
+
+#: widget/rt-post-tab.php:49 elementor/views/post-grid-1.php:42
+#: elementor/views/post-grid-2.php:42 elementor/views/post-grid-3.php:41
+#: elementor/views/post-slider-1.php:41
+msgid "Comment"
+msgstr ""
+
+#: elementor/views/post-grid-1.php:42 elementor/views/post-grid-2.php:42
+#: elementor/views/post-grid-3.php:41 elementor/views/post-slider-1.php:41
+msgid "Comments"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:148
+msgid "Common Price Table"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:110
+msgid "Conents"
+msgstr ""
+
+#: clenix-core.php:208
+msgid "Contact"
+msgstr ""
+
+#: post-meta.php:307
+msgid "Contct Shortcode"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:65
+#: elementor/widgets/about-info.php:59 elementor/widgets/contact-info.php:42
+#: elementor/widgets/info-box.php:220 elementor/widgets/progress-circle.php:80
+#: elementor/widgets/text-with-button.php:96 elementor/widgets/title.php:109
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/slider.php:70
+msgid "Content (For desktop and tab)"
+msgstr ""
+
+#: elementor/widgets/slider.php:76
+msgid "Content (For mobile)"
+msgstr ""
+
+#: elementor/widgets/info-box.php:90
+msgid "Content Align"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:150 elementor/widgets/cta.php:145
+#: elementor/widgets/pricing-table.php:213
+#: elementor/widgets/progress-circle.php:125 elementor/widgets/slider.php:100
+#: elementor/widgets/text-with-button.php:184
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:98
+msgid "Content Display"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:238
+msgid "Content Icon Color"
+msgstr ""
+
+#: post-meta.php:169
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:148
+msgid "Content Padding Top"
+msgstr ""
+
+#: elementor/widgets/cta.php:90
+msgid "Content Text "
+msgstr ""
+
+#: elementor/widgets/rt-team.php:108
+msgid "Content Type"
+msgstr ""
+
+#: post-meta.php:138
+msgid "Copyright Area"
+msgstr ""
+
+#: widget/address-widget.php:65
+msgid "Corporate Office"
+msgstr ""
+
+#: elementor/widgets/counter.php:141
+msgid "Counter Color"
+msgstr ""
+
+#: elementor/widgets/counter.php:169
+msgid "Counter Font Size"
+msgstr ""
+
+#: elementor/widgets/counter.php:102
+msgid "Counter Number"
+msgstr ""
+
+#: elementor/widgets/counter.php:117 elementor/widgets/progress-circle.php:95
+msgid "Counter steps eg. 10"
+msgstr ""
+
+#: elementor/widgets/cta.php:35
+msgid "CTA Style"
+msgstr ""
+
+#: elementor/widgets/counter.php:73 elementor/widgets/info-box.php:122
+#: elementor/widgets/pricing-table.php:47
+#: elementor/widgets/rt-animate-image.php:50
+msgid "Custom Image"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:83
+#: elementor/widgets/portfolio-isotope.php:94
+#: elementor/widgets/portfolio-masonry.php:94
+#: elementor/widgets/portfolio-slider.php:77 elementor/widgets/post-grid.php:81
+#: elementor/widgets/service-grid.php:81
+#: elementor/widgets/service-isotope.php:94
+#: elementor/widgets/service-slider.php:87
+msgid "Custom Order"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:91 elementor/widgets/service-tab.php:70
+#: elementor/widgets/testimonial.php:84
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr ""
+
+#: post-meta.php:51
+msgid "Custom Sidebar"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:35
+#: elementor/widgets/contact-info.php:35 elementor/widgets/cta.php:49
+#: elementor/widgets/info-box.php:56 elementor/widgets/progress-circle.php:43
+msgid "Dark Background"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:36
+msgid "Dashed"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:89 elementor/widgets/service-tab.php:68
+#: elementor/widgets/testimonial.php:82
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:93
+msgid "Days"
+msgstr ""
+
+#: post-meta.php:28 post-meta.php:29 post-meta.php:43 post-meta.php:66
+#: post-meta.php:76 post-meta.php:86 post-meta.php:97 post-meta.php:107
+#: post-meta.php:119 post-meta.php:131 post-meta.php:141 post-meta.php:151
+#: post-meta.php:172 post-meta.php:193 post-meta.php:203 post-meta.php:213
+#: post-meta.php:323 post-meta.php:434 post-meta.php:477
+msgid "Default"
+msgstr ""
+
+#: widget/about-widget.php:57 widget/address-widget.php:80
+#: widget/rt-calltoaction-widget.php:57 widget/social-widget.php:113
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:71
+#: elementor/widgets/portfolio-isotope.php:82
+#: elementor/widgets/portfolio-masonry.php:82
+#: elementor/widgets/portfolio-slider.php:65 elementor/widgets/post-grid.php:69
+#: elementor/widgets/service-grid.php:69
+#: elementor/widgets/service-isotope.php:82
+#: elementor/widgets/service-slider.php:75
+msgid "Desecending"
+msgstr ""
+
+#: post-meta.php:252 post-meta.php:470
+msgid "Designation"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:128 elementor/widgets/testimonial.php:105
+msgid "Designation Display"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:84
+#: elementor/widgets/portfolio-grid.php:225
+#: elementor/widgets/portfolio-isotope.php:243
+#: elementor/widgets/portfolio-masonry.php:243
+#: elementor/widgets/portfolio-slider.php:205
+#: elementor/widgets/post-grid.php:201 elementor/widgets/rt-team.php:182
+#: elementor/widgets/service-grid.php:211
+#: elementor/widgets/service-isotope.php:239
+#: elementor/widgets/service-slider.php:228
+#: elementor/widgets/testimonial.php:189
+msgid "Desktops: > 1199px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:91
+#: elementor/widgets/portfolio-grid.php:232
+#: elementor/widgets/portfolio-isotope.php:250
+#: elementor/widgets/portfolio-masonry.php:250
+#: elementor/widgets/portfolio-slider.php:212
+#: elementor/widgets/post-grid.php:208 elementor/widgets/rt-team.php:189
+#: elementor/widgets/service-grid.php:218
+#: elementor/widgets/service-isotope.php:246
+#: elementor/widgets/service-slider.php:235
+#: elementor/widgets/testimonial.php:196
+msgid "Desktops: > 991px"
+msgstr ""
+
+#: elementor/views/service-isotope-1.php:150
+msgid "Details"
+msgstr ""
+
+#: elementor/widgets/info-box.php:197
+msgid "Digital Solutions"
+msgstr ""
+
+#: post-meta.php:195 post-meta.php:205
+msgid "Disable"
+msgstr ""
+
+#: post-meta.php:68 post-meta.php:78 post-meta.php:99 post-meta.php:133
+#: post-meta.php:143
+msgid "Disabled"
+msgstr ""
+
+#: widget/rt-feature-post.php:196 widget/rt-post-box.php:218
+#: widget/rt-post-tab.php:298 widget/rt-product-box.php:227
+msgid "Display"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:146
+msgid "Display Active"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:113
+#: elementor/widgets/portfolio-isotope.php:123
+#: elementor/widgets/portfolio-masonry.php:123
+#: elementor/widgets/portfolio-slider.php:107
+#: elementor/widgets/service-grid.php:102
+#: elementor/widgets/service-isotope.php:115
+msgid "Display column gap"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:114
+msgid "Display contents from Editor or Excerpt field"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:156
+msgid "Display Offer"
+msgstr ""
+
+#: widget/rt-feature-post.php:191 widget/rt-post-box.php:206
+#: widget/rt-post-tab.php:284 widget/rt-recent-post-widget.php:104
+msgid "Display post category?"
+msgstr ""
+
+#: widget/rt-feature-post.php:188 widget/rt-post-box.php:203
+#: widget/rt-post-tab.php:281 widget/rt-recent-post-widget.php:101
+msgid "Display post date?"
+msgstr ""
+
+#: widget/rt-product-box.php:215
+msgid "Display product category?"
+msgstr ""
+
+#: widget/rt-product-box.php:212
+msgid "Display product price?"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:11
+msgid "Display the opening hours"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:87
+msgid "Divider Color"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:35
+msgid "Dotted"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:34
+msgid "Double"
+msgstr ""
+
+#: widget/social-widget.php:153
+msgid "Dribbble Plus URL"
+msgstr ""
+
+#: clenix-core.php:210
+msgid "E-mail"
+msgstr ""
+
+#: post-meta.php:293
+msgid "eg. 75"
+msgstr ""
+
+#: post-meta.php:288
+msgid "eg. Marketing"
+msgstr ""
+
+#: post-meta.php:256 widget/address-widget.php:92
+#: elementor/widgets/contact-info.php:65
+msgid "Email"
+msgstr ""
+
+#: widget/sidebar-generator.php:69 widget/sidebar-generator.php:116
+msgid "Empty nonce"
+msgstr ""
+
+#: post-meta.php:194 post-meta.php:204
+msgid "Enable"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:152
+#: elementor/widgets/portfolio-slider.php:271
+#: elementor/widgets/post-grid.php:268 elementor/widgets/rt-team.php:250
+#: elementor/widgets/service-slider.php:294 elementor/widgets/slider.php:153
+#: elementor/widgets/testimonial.php:257
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:134
+#: elementor/widgets/portfolio-slider.php:253
+#: elementor/widgets/post-grid.php:250 elementor/widgets/rt-team.php:232
+#: elementor/widgets/service-slider.php:276 elementor/widgets/slider.php:135
+#: elementor/widgets/testimonial.php:239
+msgid "Enable or disable navigation arrow. Default: On"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:143 elementor/widgets/slider.php:144
+msgid "Enable or disable navigation dot. Default: Off"
+msgstr ""
+
+#: elementor/widgets/portfolio-slider.php:262
+#: elementor/widgets/post-grid.php:259 elementor/widgets/rt-team.php:241
+#: elementor/widgets/service-slider.php:285
+#: elementor/widgets/testimonial.php:248
+msgid "Enable or disable navigation dots. Default: Off"
+msgstr ""
+
+#: post-meta.php:67 post-meta.php:77 post-meta.php:98 post-meta.php:132
+#: post-meta.php:142
+msgid "Enabled"
+msgstr ""
+
+#: post-meta.php:423
+msgid "End Date"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:91
+#: elementor/widgets/portfolio-isotope.php:102
+#: elementor/widgets/portfolio-masonry.php:102
+#: elementor/widgets/portfolio-slider.php:85
+#: elementor/widgets/service-grid.php:89
+#: elementor/widgets/service-isotope.php:102
+#: elementor/widgets/service-slider.php:95
+msgid "Enter Post ID that will not display"
+msgstr ""
+
+#: post-meta.php:270 post-meta.php:455
+msgid "Enter your social links here"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:143
+#: elementor/widgets/portfolio-isotope.php:153
+#: elementor/widgets/portfolio-masonry.php:153
+#: elementor/widgets/portfolio-slider.php:133
+#: elementor/widgets/service-grid.php:134
+#: elementor/widgets/service-isotope.php:145
+#: elementor/widgets/service-slider.php:122
+msgid "Excerpt/Content Display"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:111
+msgid "Excerpts"
+msgstr ""
+
+#: elementor/widgets/slider.php:65
+msgid "Experts Are"
+msgstr ""
+
+#: module/rt-post-share.php:20
+msgid "Facebook"
+msgstr ""
+
+#: widget/social-widget.php:117
+msgid "Facebook URL"
+msgstr ""
+
+#: widget/address-widget.php:96 elementor/widgets/contact-info.php:71
+msgid "Fax"
+msgstr ""
+
+#: widget/rt-feature-post.php:10
+msgid "Feature Post Display Widget"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:75
+msgid "Feature works"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:127
+msgid "Features"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:61
+msgid "Fgcolor"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:140
+msgid "fgcolor Color"
+msgstr ""
+
+#: post-meta.php:128
+msgid "Footer Area"
+msgstr ""
+
+#: post-meta.php:116
+msgid "Footer Layout"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:21
+msgid "Friday"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:94
+msgid "From"
+msgstr ""
+
+#: post-meta.php:44
+msgid "Full Width"
+msgstr ""
+
+#: elementor/widgets/slider.php:17
+msgid "FullScreen Slider"
+msgstr ""
+
+#: elementor/widgets/about-info.php:60
+msgid ""
+"Fusce mauris auctor ollicituder teary iner hendrerit risusey aeenean rauctor "
+"pibus doloer."
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:115
+#: elementor/widgets/portfolio-isotope.php:125
+#: elementor/widgets/portfolio-masonry.php:125
+#: elementor/widgets/rt-divider.php:120 elementor/widgets/service-grid.php:104
+#: elementor/widgets/service-isotope.php:117
+msgid "Gap"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:30
+#: elementor/widgets/about-info.php:26 elementor/widgets/contact-address.php:27
+#: elementor/widgets/contact-info.php:27 elementor/widgets/counter.php:33
+#: elementor/widgets/cta.php:30 elementor/widgets/info-box.php:30
+#: elementor/widgets/logo-slider.php:42 elementor/widgets/nav-menu.php:35
+#: elementor/widgets/portfolio-grid.php:43
+#: elementor/widgets/portfolio-isotope.php:47
+#: elementor/widgets/portfolio-masonry.php:47
+#: elementor/widgets/portfolio-slider.php:49 elementor/widgets/post-grid.php:49
+#: elementor/widgets/pricing-table.php:28 elementor/widgets/progress-bar.php:31
+#: elementor/widgets/progress-circle.php:35
+#: elementor/widgets/rt-animate-image.php:30 elementor/widgets/rt-image.php:27
+#: elementor/widgets/rt-team.php:48 elementor/widgets/service-grid.php:43
+#: elementor/widgets/service-isotope.php:47
+#: elementor/widgets/service-slider.php:49 elementor/widgets/service-tab.php:41
+#: elementor/widgets/slider.php:32 elementor/widgets/testimonial.php:55
+#: elementor/widgets/text-with-button.php:30 elementor/widgets/video.php:30
+msgid "General"
+msgstr ""
+
+#: elementor/widgets/cta.php:123
+msgid "Get an Estimate"
+msgstr ""
+
+#: elementor/widgets/cta.php:58
+msgid "Get started with your free estimate"
+msgstr ""
+
+#: widget/social-widget.php:125
+msgid "Google Plus URL"
+msgstr ""
+
+#: module/rt-post-share.php:30
+msgid "Google+"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:56
+msgid "Grid 1"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:57
+msgid "Grid 2"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:58
+msgid "Grid 3"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:50
+msgid "Grid layout 1"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:51
+msgid "Grid layout 2"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:52
+msgid "Grid layout 3"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:53
+msgid "Grid layout 4"
+msgstr ""
+
+#: elementor/widgets/info-box.php:221
+msgid ""
+"Grursus mal suada faci lisis is an Lorem is ipsum dolarorit more as ametion "
+"that the dummy text elit."
+msgstr ""
+
+#: post-meta.php:104
+msgid "Header Layout"
+msgstr ""
+
+#: post-meta.php:94
+msgid "Header On/Off"
+msgstr ""
+
+#: widget/rt-feature-post.php:180 widget/rt-feature-post.php:197
+#: widget/rt-post-box.php:195 widget/rt-post-box.php:219
+#: widget/rt-post-tab.php:273 widget/rt-post-tab.php:299
+#: widget/rt-product-box.php:204 widget/rt-product-box.php:228
+#: elementor/widgets/counter.php:62 elementor/widgets/info-box.php:105
+#: elementor/widgets/portfolio-grid.php:106
+#: elementor/widgets/portfolio-grid.php:145
+#: elementor/widgets/portfolio-grid.php:195
+#: elementor/widgets/portfolio-isotope.php:117
+#: elementor/widgets/portfolio-isotope.php:155
+#: elementor/widgets/portfolio-isotope.php:203
+#: elementor/widgets/portfolio-isotope.php:213
+#: elementor/widgets/portfolio-masonry.php:117
+#: elementor/widgets/portfolio-masonry.php:155
+#: elementor/widgets/portfolio-masonry.php:203
+#: elementor/widgets/portfolio-masonry.php:213
+#: elementor/widgets/portfolio-slider.php:100
+#: elementor/widgets/portfolio-slider.php:135
+#: elementor/widgets/portfolio-slider.php:182
+#: elementor/widgets/post-grid.php:119 elementor/widgets/post-grid.php:144
+#: elementor/widgets/post-grid.php:152 elementor/widgets/post-grid.php:160
+#: elementor/widgets/post-grid.php:168 elementor/widgets/post-grid.php:176
+#: elementor/widgets/post-grid.php:184 elementor/widgets/service-grid.php:128
+#: elementor/widgets/service-grid.php:136
+#: elementor/widgets/service-isotope.php:147
+#: elementor/widgets/service-isotope.php:155
+#: elementor/widgets/service-isotope.php:199
+#: elementor/widgets/service-isotope.php:209
+#: elementor/widgets/service-slider.php:124
+#: elementor/widgets/service-slider.php:140
+#: elementor/widgets/text-with-button.php:69 elementor/widgets/title.php:74
+msgid "Hide"
+msgstr ""
+
+#: demo-importer.php:41
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer.php:71
+msgid "Home 1 ( OnePage )"
+msgstr ""
+
+#: demo-importer.php:46
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer.php:76
+msgid "Home 2 ( OnePage )"
+msgstr ""
+
+#: demo-importer.php:51
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer.php:81
+msgid "Home 3 ( OnePage )"
+msgstr ""
+
+#: demo-importer.php:56
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer.php:86
+msgid "Home 4 ( OnePage )"
+msgstr ""
+
+#: demo-importer.php:61
+msgid "Home 5"
+msgstr ""
+
+#: demo-importer.php:91
+msgid "Home 5 ( OnePage )"
+msgstr ""
+
+#: demo-importer.php:66
+msgid "Home 6"
+msgstr ""
+
+#: demo-importer.php:96
+msgid "Home 6 ( OnePage )"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr ""
+
+#: elementor/widgets/counter.php:72 elementor/widgets/counter.php:81
+#: elementor/widgets/info-box.php:121 elementor/widgets/info-box.php:129
+#: elementor/widgets/pricing-table.php:46
+#: elementor/widgets/pricing-table.php:55
+#: elementor/widgets/rt-animate-image.php:49
+#: elementor/widgets/rt-animate-image.php:57
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/counter.php:48
+msgid "Icon Align"
+msgstr ""
+
+#: elementor/widgets/info-box.php:157 elementor/widgets/service-slider.php:201
+msgid "Icon Background Color"
+msgstr ""
+
+#: elementor/widgets/service-slider.php:210
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: elementor/widgets/info-box.php:143
+msgid "Icon Background Image"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:77 elementor/widgets/counter.php:150
+#: elementor/widgets/cta.php:155 elementor/widgets/info-box.php:168
+#: elementor/widgets/pricing-table.php:82
+#: elementor/widgets/rt-animate-image.php:71
+#: elementor/widgets/service-slider.php:191
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/counter.php:178
+msgid "Icon Font Size"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:92
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:41
+msgid "Icon Info"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:106
+msgid "Icon Position Bottom"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:100
+msgid "Icon Position Left"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:94
+msgid "Icon Position right"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:88
+msgid "Icon Position Top"
+msgstr ""
+
+#: elementor/widgets/info-box.php:150 elementor/widgets/pricing-table.php:69
+#: elementor/widgets/rt-animate-image.php:81
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/cta.php:82
+msgid "Icon Style"
+msgstr ""
+
+#: elementor/widgets/counter.php:70 elementor/widgets/info-box.php:119
+#: elementor/widgets/pricing-table.php:44
+#: elementor/widgets/rt-animate-image.php:47
+#: elementor/widgets/text-with-button.php:56 elementor/widgets/title.php:60
+msgid "Icon Type"
+msgstr ""
+
+#: elementor/widgets/counter.php:59
+msgid "Icon/image"
+msgstr ""
+
+#: post-meta.php:222 post-meta.php:227 post-meta.php:232 post-meta.php:237
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: post-meta.php:298
+msgid "If not selected, primary color will be used"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:59
+#: elementor/widgets/about-info.php:53 elementor/widgets/counter.php:88
+#: elementor/widgets/cta.php:97 elementor/widgets/info-box.php:113
+#: elementor/widgets/info-box.php:136 elementor/widgets/logo-slider.php:62
+#: elementor/widgets/pricing-table.php:62
+#: elementor/widgets/rt-animate-image.php:35
+#: elementor/widgets/rt-animate-image.php:64 elementor/widgets/slider.php:52
+#: elementor/widgets/text-with-button.php:77 elementor/widgets/title.php:82
+#: elementor/widgets/title.php:89
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/rt-image.php:32
+msgid "Image One"
+msgstr ""
+
+#: elementor/widgets/slider.php:53
+msgid "Image size should be 1920x820 px"
+msgstr ""
+
+#: elementor/widgets/rt-image.php:44
+msgid "Image Three"
+msgstr ""
+
+#: elementor/widgets/rt-image.php:38
+msgid "Image Two"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:110
+msgid "Including currency sign eg. $59"
+msgstr ""
+
+#: post-meta.php:411
+msgid "Info Description"
+msgstr ""
+
+#: post-meta.php:407
+msgid "Info Title"
+msgstr ""
+
+#: widget/social-widget.php:145
+msgid "Instagram URL"
+msgstr ""
+
+#: demo-importer.php:26
+msgid "Install Demo Contents"
+msgstr ""
+
+#: widget/sidebar-generator.php:72 widget/sidebar-generator.php:119
+msgid "Invalid nonce"
+msgstr ""
+
+#: elementor/widgets/portfolio-isotope.php:54
+#: elementor/widgets/service-isotope.php:54
+msgid "Isotope layout 1"
+msgstr ""
+
+#: elementor/widgets/portfolio-isotope.php:55
+#: elementor/widgets/service-isotope.php:55
+msgid "Isotope layout 2"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:142
+msgid "Item Background Color"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:182
+#: elementor/widgets/portfolio-isotope.php:190
+#: elementor/widgets/portfolio-masonry.php:190
+#: elementor/widgets/portfolio-slider.php:170
+#: elementor/widgets/service-grid.php:169
+#: elementor/widgets/service-isotope.php:187
+#: elementor/widgets/service-slider.php:182
+#: elementor/widgets/testimonial.php:169
+msgid "Item Content Color"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:160
+msgid "Item designation Color"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:103
+msgid "Item Limit"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:170
+#: elementor/widgets/portfolio-isotope.php:178
+#: elementor/widgets/portfolio-masonry.php:178
+#: elementor/widgets/portfolio-slider.php:161
+#: elementor/widgets/service-isotope.php:178
+msgid "Item Link Hover Color"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:123
+#: elementor/widgets/portfolio-isotope.php:133
+#: elementor/widgets/portfolio-masonry.php:133
+#: elementor/widgets/portfolio-slider.php:113
+#: elementor/widgets/service-grid.php:112
+#: elementor/widgets/service-isotope.php:125
+#: elementor/widgets/service-slider.php:108
+msgid "Item Number"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:161
+#: elementor/widgets/portfolio-isotope.php:169
+#: elementor/widgets/portfolio-masonry.php:169
+#: elementor/widgets/portfolio-slider.php:151
+#: elementor/widgets/service-grid.php:150
+#: elementor/widgets/service-isotope.php:169
+#: elementor/widgets/service-slider.php:163
+#: elementor/widgets/testimonial.php:151
+msgid "Item Title Color"
+msgstr ""
+
+#: elementor/widgets/service-grid.php:160
+#: elementor/widgets/service-slider.php:173
+msgid "Item Title Hover Color"
+msgstr ""
+
+#: post-meta.php:40 elementor/widgets/portfolio-grid.php:48
+#: elementor/widgets/portfolio-isotope.php:52
+#: elementor/widgets/portfolio-masonry.php:52
+#: elementor/widgets/pricing-table.php:33 elementor/widgets/service-grid.php:48
+#: elementor/widgets/service-isotope.php:52
+msgid "Layout"
+msgstr ""
+
+#: post-meta.php:87 post-meta.php:108 post-meta.php:120
+#: elementor/widgets/pricing-table.php:35
+msgid "Layout 1"
+msgstr ""
+
+#: post-meta.php:88 post-meta.php:109 post-meta.php:121
+#: elementor/widgets/pricing-table.php:36
+msgid "Layout 2"
+msgstr ""
+
+#: post-meta.php:89 post-meta.php:110 post-meta.php:122
+#: elementor/widgets/pricing-table.php:37
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:111 post-meta.php:123
+msgid "Layout 4"
+msgstr ""
+
+#: post-meta.php:31
+msgid "Layout Settings"
+msgstr ""
+
+#: post-meta.php:35
+msgid "Layouts"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:99
+#: elementor/widgets/text-with-button.php:47
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/counter.php:50
+msgid "left"
+msgstr ""
+
+#: post-meta.php:45
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:34
+#: elementor/widgets/contact-info.php:34 elementor/widgets/cta.php:48
+#: elementor/widgets/info-box.php:55 elementor/widgets/progress-circle.php:42
+msgid "Light Background"
+msgstr ""
+
+#: module/rt-post-views.php:121
+msgid "Like"
+msgstr ""
+
+#: module/rt-post-views.php:123
+msgid "Likes"
+msgstr ""
+
+#: elementor/widgets/info-box.php:227 elementor/widgets/pricing-table.php:134
+msgid "Link (Optional)"
+msgstr ""
+
+#: module/rt-post-share.php:35
+msgid "LinkedIn"
+msgstr ""
+
+#: widget/social-widget.php:129
+msgid "LinkedIn URL"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:50
+msgid "Logo Grid"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:47
+msgid "Logo Layout"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:49
+msgid "Logo Slider"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:190
+#: elementor/widgets/portfolio-slider.php:309
+#: elementor/widgets/post-grid.php:306 elementor/widgets/rt-team.php:288
+#: elementor/widgets/service-slider.php:332
+#: elementor/widgets/testimonial.php:295
+msgid "Loop"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:194
+#: elementor/widgets/portfolio-slider.php:313
+#: elementor/widgets/post-grid.php:310 elementor/widgets/rt-team.php:292
+#: elementor/widgets/service-slider.php:336
+#: elementor/widgets/testimonial.php:299
+msgid "Loop to first item. Default: On"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:66
+#: elementor/widgets/text-with-button.php:97
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since printer "
+"took a galley. Rimply dummy text of the printing and typesetting industry"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:43
+msgid ""
+"Lorem Ipsum hasbeen standard daand scrambled. Rimply dummy text of the "
+"printing and typesetting industry"
+msgstr ""
+
+#: post-meta.php:57
+msgid "Main Menu"
+msgstr ""
+
+#: elementor/widgets/portfolio-masonry.php:54
+msgid "Masonry layout 1"
+msgstr ""
+
+#: elementor/widgets/portfolio-masonry.php:55
+msgid "Masonry layout 2"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:138
+#: elementor/widgets/portfolio-grid.php:154
+#: elementor/widgets/portfolio-isotope.php:148
+#: elementor/widgets/portfolio-isotope.php:163
+#: elementor/widgets/portfolio-masonry.php:148
+#: elementor/widgets/portfolio-masonry.php:163
+#: elementor/widgets/portfolio-slider.php:128
+#: elementor/widgets/portfolio-slider.php:144
+#: elementor/widgets/post-grid.php:98 elementor/widgets/post-grid.php:105
+#: elementor/widgets/post-grid.php:112 elementor/widgets/rt-team.php:122
+#: elementor/widgets/service-grid.php:121
+#: elementor/widgets/service-grid.php:144
+#: elementor/widgets/service-isotope.php:140
+#: elementor/widgets/service-isotope.php:163
+#: elementor/widgets/service-slider.php:117
+#: elementor/widgets/service-slider.php:132
+#: elementor/widgets/service-tab.php:79 elementor/widgets/testimonial.php:93
+msgid "Maximum number of words"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:17
+msgid "Monday"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:192
+#: elementor/widgets/portfolio-isotope.php:210
+#: elementor/widgets/portfolio-masonry.php:210
+#: elementor/widgets/rt-team.php:146 elementor/widgets/service-grid.php:178
+#: elementor/widgets/service-isotope.php:206
+msgid "More Button"
+msgstr ""
+
+#: widget/rt-feature-post.php:174 widget/rt-post-box.php:189
+#: widget/rt-product-box.php:198
+msgid "Most Commented"
+msgstr ""
+
+#: widget/rt-feature-post.php:173 widget/rt-post-box.php:188
+#: widget/rt-product-box.php:197
+msgid "Most Viewed"
+msgstr ""
+
+#: widget/sidebar-generator.php:38 elementor/widgets/about-info.php:47
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:130
+#: elementor/widgets/portfolio-slider.php:249
+#: elementor/widgets/post-grid.php:246 elementor/widgets/rt-team.php:228
+#: elementor/widgets/service-slider.php:272 elementor/widgets/slider.php:131
+#: elementor/widgets/testimonial.php:235
+msgid "Navigation Arrow"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:139 elementor/widgets/slider.php:140
+msgid "Navigation Dot"
+msgstr ""
+
+#: elementor/widgets/portfolio-slider.php:258
+#: elementor/widgets/post-grid.php:255 elementor/widgets/rt-team.php:237
+#: elementor/widgets/service-slider.php:281
+#: elementor/widgets/testimonial.php:244
+msgid "Navigation Dots"
+msgstr ""
+
+#: elementor/widgets/nav-menu.php:17 elementor/widgets/nav-menu.php:46
+msgid "Navigation Manu"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:26 elementor/widgets/title.php:30
+msgid "News Title"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:116
+#: elementor/widgets/portfolio-isotope.php:126
+#: elementor/widgets/portfolio-masonry.php:126
+#: elementor/widgets/service-grid.php:105
+#: elementor/widgets/service-isotope.php:118
+msgid "No Gap"
+msgstr ""
+
+#: elementor/views/post-grid-3.php:142
+msgid "No Post Found"
+msgstr ""
+
+#: clenix-core.php:204
+msgid "Number of Cleaners"
+msgstr ""
+
+#: widget/rt-feature-post.php:184 widget/rt-post-box.php:199
+#: widget/rt-post-tab.php:277 widget/rt-recent-post-widget.php:97
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widget/rt-product-box.php:208
+msgid "Number of Product to show:"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:79
+#: elementor/widgets/portfolio-grid.php:220
+#: elementor/widgets/portfolio-isotope.php:238
+#: elementor/widgets/portfolio-masonry.php:238
+#: elementor/widgets/portfolio-slider.php:200
+#: elementor/widgets/post-grid.php:195 elementor/widgets/rt-team.php:177
+#: elementor/widgets/service-grid.php:206
+#: elementor/widgets/service-isotope.php:234
+#: elementor/widgets/service-slider.php:223
+#: elementor/widgets/testimonial.php:183
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:73
+#: elementor/widgets/logo-slider.php:132 elementor/widgets/logo-slider.php:141
+#: elementor/widgets/logo-slider.php:150 elementor/widgets/logo-slider.php:159
+#: elementor/widgets/logo-slider.php:192
+#: elementor/widgets/portfolio-slider.php:251
+#: elementor/widgets/portfolio-slider.php:260
+#: elementor/widgets/portfolio-slider.php:269
+#: elementor/widgets/portfolio-slider.php:278
+#: elementor/widgets/portfolio-slider.php:311
+#: elementor/widgets/post-grid.php:248 elementor/widgets/post-grid.php:257
+#: elementor/widgets/post-grid.php:266 elementor/widgets/post-grid.php:275
+#: elementor/widgets/post-grid.php:308 elementor/widgets/rt-team.php:100
+#: elementor/widgets/rt-team.php:130 elementor/widgets/rt-team.php:139
+#: elementor/widgets/rt-team.php:230 elementor/widgets/rt-team.php:239
+#: elementor/widgets/rt-team.php:248 elementor/widgets/rt-team.php:257
+#: elementor/widgets/rt-team.php:290 elementor/widgets/service-slider.php:274
+#: elementor/widgets/service-slider.php:283
+#: elementor/widgets/service-slider.php:292
+#: elementor/widgets/service-slider.php:301
+#: elementor/widgets/service-slider.php:334
+#: elementor/widgets/service-tab.php:87 elementor/widgets/service-tab.php:96
+#: elementor/widgets/slider.php:133 elementor/widgets/slider.php:142
+#: elementor/widgets/slider.php:151 elementor/widgets/testimonial.php:107
+#: elementor/widgets/testimonial.php:116 elementor/widgets/testimonial.php:125
+#: elementor/widgets/testimonial.php:237 elementor/widgets/testimonial.php:246
+#: elementor/widgets/testimonial.php:255 elementor/widgets/testimonial.php:264
+#: elementor/widgets/testimonial.php:297
+#: elementor/widgets/text-with-button.php:104
+msgid "Off"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:158
+msgid "Offer Active"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:159
+msgid "Offer Inactive"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:72
+#: elementor/widgets/logo-slider.php:131 elementor/widgets/logo-slider.php:140
+#: elementor/widgets/logo-slider.php:149 elementor/widgets/logo-slider.php:158
+#: elementor/widgets/logo-slider.php:191
+#: elementor/widgets/portfolio-slider.php:250
+#: elementor/widgets/portfolio-slider.php:259
+#: elementor/widgets/portfolio-slider.php:268
+#: elementor/widgets/portfolio-slider.php:277
+#: elementor/widgets/portfolio-slider.php:310
+#: elementor/widgets/post-grid.php:247 elementor/widgets/post-grid.php:256
+#: elementor/widgets/post-grid.php:265 elementor/widgets/post-grid.php:274
+#: elementor/widgets/post-grid.php:307 elementor/widgets/rt-team.php:99
+#: elementor/widgets/rt-team.php:129 elementor/widgets/rt-team.php:138
+#: elementor/widgets/rt-team.php:229 elementor/widgets/rt-team.php:238
+#: elementor/widgets/rt-team.php:247 elementor/widgets/rt-team.php:256
+#: elementor/widgets/rt-team.php:289 elementor/widgets/service-slider.php:273
+#: elementor/widgets/service-slider.php:282
+#: elementor/widgets/service-slider.php:291
+#: elementor/widgets/service-slider.php:300
+#: elementor/widgets/service-slider.php:333
+#: elementor/widgets/service-tab.php:86 elementor/widgets/service-tab.php:95
+#: elementor/widgets/slider.php:132 elementor/widgets/slider.php:141
+#: elementor/widgets/slider.php:150 elementor/widgets/testimonial.php:106
+#: elementor/widgets/testimonial.php:115 elementor/widgets/testimonial.php:124
+#: elementor/widgets/testimonial.php:236 elementor/widgets/testimonial.php:245
+#: elementor/widgets/testimonial.php:254 elementor/widgets/testimonial.php:263
+#: elementor/widgets/testimonial.php:296
+#: elementor/widgets/text-with-button.php:103
+msgid "On"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:128
+msgid "One line per feature"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:129
+msgid ""
+"One line per feature. Put BLANK keyword if you want blank line. eg.<br/>"
+"Investment Plan</br>Education Loan</br>Tax Planning</br>BLANK"
+msgstr ""
+
+#: widget/sidebar-generator.php:172 widget/sidebar-generator.php:211
+msgid "Operation failed"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:136
+msgid "Option"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:87 elementor/widgets/service-tab.php:66
+#: elementor/widgets/testimonial.php:80
+msgid "Order By"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:43
+msgid "Our Office Address"
+msgstr ""
+
+#: elementor/widgets/title.php:103
+msgid "Our subtitle"
+msgstr ""
+
+#: post-meta.php:235
+msgid "Page/Post Background Color"
+msgstr ""
+
+#: post-meta.php:230
+msgid "Page/Post Background Image"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:122
+msgid "Per month"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:42
+msgid "Percentage"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:48
+msgid "Percentage Height"
+msgstr ""
+
+#: elementor/widgets/title.php:110
+msgid ""
+"Perspiciatis unde omnis iste natus error sit voluptatem accusantium dol "
+"oremque laudantium, totam remeaque ipsa."
+msgstr ""
+
+#: post-meta.php:260
+msgid "Phone"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:54
+msgid "Phone 1"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:60
+msgid "Phone 2"
+msgstr ""
+
+#: elementor/widgets/cta.php:166
+msgid "Phone No Color"
+msgstr ""
+
+#: widget/address-widget.php:88 elementor/widgets/cta.php:104
+msgid "Phone Number"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:105
+#: elementor/widgets/portfolio-grid.php:246
+#: elementor/widgets/portfolio-isotope.php:264
+#: elementor/widgets/portfolio-masonry.php:264
+#: elementor/widgets/portfolio-slider.php:226
+#: elementor/widgets/post-grid.php:222 elementor/widgets/rt-team.php:203
+#: elementor/widgets/service-grid.php:232
+#: elementor/widgets/service-isotope.php:260
+#: elementor/widgets/service-slider.php:249
+#: elementor/widgets/testimonial.php:210
+msgid "Phones: < 768px"
+msgstr ""
+
+#: module/rt-post-share.php:50
+msgid "Pinterest"
+msgstr ""
+
+#: widget/social-widget.php:133
+msgid "Pinterest URL"
+msgstr ""
+
+#: elementor/widgets/video.php:64
+msgid "Play Video"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:33
+#: elementor/widgets/portfolio-isotope.php:37
+#: elementor/widgets/portfolio-masonry.php:37
+#: elementor/widgets/portfolio-slider.php:39
+#: elementor/widgets/service-grid.php:33
+#: elementor/widgets/service-isotope.php:37
+#: elementor/widgets/service-slider.php:39
+msgid "Please Selecet category"
+msgstr ""
+
+#: widget/rt-post-tab.php:46
+msgid "Popular"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:167
+msgid "Popular Sale!"
+msgstr ""
+
+#: post-types.php:36
+msgid "Portfolio"
+msgstr ""
+
+#: post-types.php:67
+msgid "Portfolio Categories"
+msgstr ""
+
+#: post-types.php:66
+msgid "Portfolio Category"
+msgstr ""
+
+#: post-meta.php:444
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: post-meta.php:404
+msgid "Portfolio Info"
+msgstr ""
+
+#: post-meta.php:450
+msgid "Portfolio Social Share"
+msgstr ""
+
+#: post-types.php:37
+msgid "Portfolios"
+msgstr ""
+
+#: widget/rt-feature-post.php:170 widget/rt-post-box.php:185
+#: widget/rt-product-box.php:194
+msgid "Post Display Order : "
+msgstr ""
+
+#: widget/rt-post-box.php:10
+msgid "Post Display Widget"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:96
+#: elementor/widgets/portfolio-isotope.php:107
+#: elementor/widgets/portfolio-masonry.php:107
+#: elementor/widgets/portfolio-slider.php:90
+#: elementor/widgets/service-grid.php:94
+#: elementor/widgets/service-isotope.php:107
+#: elementor/widgets/service-slider.php:100
+msgid "Post ID"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:69
+#: elementor/widgets/portfolio-isotope.php:80
+#: elementor/widgets/portfolio-masonry.php:80
+#: elementor/widgets/portfolio-slider.php:63 elementor/widgets/post-grid.php:67
+#: elementor/widgets/service-grid.php:67
+#: elementor/widgets/service-isotope.php:80
+#: elementor/widgets/service-slider.php:73
+msgid "Post Ordering"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:79
+#: elementor/widgets/portfolio-isotope.php:90
+#: elementor/widgets/portfolio-masonry.php:90
+#: elementor/widgets/portfolio-slider.php:73 elementor/widgets/post-grid.php:77
+#: elementor/widgets/service-grid.php:77
+#: elementor/widgets/service-isotope.php:90
+#: elementor/widgets/service-slider.php:83
+msgid "Post Sorting"
+msgstr ""
+
+#: widget/rt-post-tab.php:10
+msgid "Post Tab Display Widget"
+msgstr ""
+
+#: clenix-core.php:200 elementor/widgets/pricing-table.php:108
+msgid "Price"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:227
+msgid "Price Color"
+msgstr ""
+
+#: elementor/widgets/service-tab.php:85
+msgid "Price Display"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:115
+msgid "Price Symbol"
+msgstr ""
+
+#: module/rt-post-share.php:65
+msgid "Print"
+msgstr ""
+
+#: widget/rt-product-box.php:10
+msgid "Product Display Widget"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: elementor/init.php:85
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:82
+#: elementor/widgets/portfolio-isotope.php:93
+#: elementor/widgets/portfolio-masonry.php:93
+#: elementor/widgets/portfolio-slider.php:76 elementor/widgets/post-grid.php:80
+#: elementor/widgets/service-grid.php:80
+#: elementor/widgets/service-isotope.php:93
+#: elementor/widgets/service-slider.php:86
+msgid "Random Post"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:114
+msgid "Ratting Display"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:126 elementor/widgets/service-slider.php:147
+msgid "READ MORE"
+msgstr ""
+
+#: elementor/views/service-grid-1.php:108
+#: elementor/views/service-isotope-2.php:166
+#: elementor/widgets/about-image-text.php:92 elementor/widgets/info-box.php:235
+#: elementor/widgets/text-with-button.php:123
+msgid "Read More"
+msgstr ""
+
+#: elementor/widgets/portfolio-slider.php:180
+#: elementor/widgets/post-grid.php:117 elementor/widgets/service-grid.php:126
+#: elementor/widgets/service-isotope.php:153
+#: elementor/widgets/service-slider.php:138
+#: elementor/widgets/service-tab.php:94
+msgid "Read More Display"
+msgstr ""
+
+#: widget/rt-feature-post.php:172 widget/rt-post-box.php:187
+#: widget/rt-post-tab.php:43 widget/rt-product-box.php:196
+msgid "Recent"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:81
+#: elementor/widgets/portfolio-isotope.php:92
+#: elementor/widgets/portfolio-masonry.php:92
+#: elementor/widgets/portfolio-slider.php:75 elementor/widgets/post-grid.php:79
+#: elementor/widgets/service-grid.php:79
+#: elementor/widgets/service-isotope.php:92
+#: elementor/widgets/service-slider.php:85
+msgid "Recent Post"
+msgstr ""
+
+#: widget/rt-feature-post.php:20 widget/rt-post-box.php:20
+#: widget/rt-post-tab.php:20 widget/rt-recent-post-widget.php:21
+msgid "Recent Posts"
+msgstr ""
+
+#: widget/rt-product-box.php:20
+msgid "Recent Product"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:70
+msgid "Recommended Icon size is 52x52 px"
+msgstr ""
+
+#: elementor/widgets/title.php:83 elementor/widgets/title.php:90
+msgid "Recommended image / SVG image size is 35x36 px"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:65
+msgid "Recommended image jpg/png/svg size is 60x60 px"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:78
+msgid "Recommended image size is 100x12 px"
+msgstr ""
+
+#: elementor/widgets/info-box.php:144
+msgid "Recommended image size is 120x120 px"
+msgstr ""
+
+#: elementor/widgets/cta.php:98 elementor/widgets/rt-image.php:39
+#: elementor/widgets/rt-image.php:45
+msgid "Recommended image size is 400x400 px"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:60
+#: elementor/widgets/about-info.php:54
+#: elementor/widgets/rt-animate-image.php:36
+msgid "Recommended image size is 490x600 px"
+msgstr ""
+
+#: elementor/widgets/rt-image.php:33
+msgid "Recommended image size is 600x600 px"
+msgstr ""
+
+#: elementor/widgets/counter.php:90
+msgid "Recommended image size is 67x67 px"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:64
+msgid "Recommended image/jpg/png/svg"
+msgstr ""
+
+#: elementor/widgets/info-box.php:138
+msgid "Recommended jpg, png, svg image"
+msgstr ""
+
+#: module/rt-post-share.php:55
+msgid "Reddit"
+msgstr ""
+
+#: elementor/widgets/counter.php:52 elementor/widgets/rt-divider.php:107
+#: elementor/widgets/text-with-button.php:49
+msgid "Right"
+msgstr ""
+
+#: post-meta.php:46
+msgid "Right Sidebar"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:20
+msgid "RT About Image Text"
+msgstr ""
+
+#: elementor/widgets/about-info.php:16
+msgid "RT About Info"
+msgstr ""
+
+#: elementor/widgets/rt-animate-image.php:20
+msgid "RT Animate Image"
+msgstr ""
+
+#: elementor/widgets/cta.php:20
+msgid "RT Call to Action"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:16
+msgid "RT Contact Address"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:17
+msgid "RT Contact Info"
+msgstr ""
+
+#: elementor/widgets/counter.php:17
+msgid "RT Counter"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:16
+msgid "RT Divider"
+msgstr ""
+
+#: elementor/widgets/rt-image.php:17
+msgid "RT Image"
+msgstr ""
+
+#: elementor/widgets/info-box.php:20
+msgid "RT Info Box"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:16
+msgid "RT Logo Slider and Grid"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:16
+msgid "RT Portfolio Grid"
+msgstr ""
+
+#: elementor/widgets/portfolio-isotope.php:16
+msgid "RT Portfolio Isotope"
+msgstr ""
+
+#: elementor/widgets/portfolio-masonry.php:16
+msgid "RT Portfolio Masonry"
+msgstr ""
+
+#: elementor/widgets/portfolio-slider.php:16
+msgid "RT Portfolio Slider"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:17
+msgid "RT Post Grid"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:18
+msgid "RT Pricing Table"
+msgstr ""
+
+#: elementor/widgets/progress-bar.php:17
+msgid "RT Progress Bar"
+msgstr ""
+
+#: elementor/widgets/progress-circle.php:20
+msgid "RT Progress Circle"
+msgstr ""
+
+#: elementor/widgets/title.php:20
+msgid "RT Section Title"
+msgstr ""
+
+#: elementor/widgets/service-grid.php:16
+msgid "RT Service Grid"
+msgstr ""
+
+#: elementor/widgets/service-isotope.php:16
+msgid "RT Service Isotope"
+msgstr ""
+
+#: elementor/widgets/service-slider.php:16
+msgid "RT Service Slider"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:16
+msgid "RT Team"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:16
+msgid "RT Testimonial"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:20
+msgid "RT Title Text With Button"
+msgstr ""
+
+#: elementor/widgets/video.php:16
+msgid "RT Video"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:22
+msgid "Saturday"
+msgstr ""
+
+#: widget/search-widget.php:14
+msgid "Search here ..."
+msgstr ""
+
+#: widget/rt-post-box.php:209 widget/rt-post-tab.php:287
+#: widget/rt-product-box.php:218
+msgid "Select Box Style : "
+msgstr ""
+
+#: post-meta.php:431 post-meta.php:474
+msgid "Select the Rating"
+msgstr ""
+
+#: post-types.php:29
+msgid "Service"
+msgstr ""
+
+#: elementor/widgets/service-grid.php:50
+msgid "Service 1"
+msgstr ""
+
+#: elementor/widgets/service-grid.php:51
+msgid "Service 2"
+msgstr ""
+
+#: post-meta.php:366
+msgid "Service Button"
+msgstr ""
+
+#: post-meta.php:370
+msgid "Service Button Url"
+msgstr ""
+
+#: post-types.php:61
+msgid "Service Categories"
+msgstr ""
+
+#: post-types.php:60
+msgid "Service Category"
+msgstr ""
+
+#: post-meta.php:346
+msgid "Service Cleaning Hours"
+msgstr ""
+
+#: post-meta.php:358
+msgid "Service Contact"
+msgstr ""
+
+#: post-meta.php:362
+msgid "Service E-mail"
+msgstr ""
+
+#: elementor/widgets/service-slider.php:57
+msgid "Service Grid"
+msgstr ""
+
+#: post-meta.php:394
+msgid "Service Hover Image"
+msgstr ""
+
+#: post-meta.php:383
+msgid "Service Icon"
+msgstr ""
+
+#: post-meta.php:377
+msgid "Service Icon image"
+msgstr ""
+
+#: post-meta.php:389
+msgid "Service Image"
+msgstr ""
+
+#: post-meta.php:331
+msgid "Service Info"
+msgstr ""
+
+#: post-meta.php:334
+msgid "Service Info Title"
+msgstr ""
+
+#: post-meta.php:350
+msgid "Service Number of Cleaners"
+msgstr ""
+
+#: post-meta.php:338
+msgid "Service Price"
+msgstr ""
+
+#: post-meta.php:342
+msgid "Service Price Unit"
+msgstr ""
+
+#: elementor/widgets/service-slider.php:56
+msgid "Service Slider"
+msgstr ""
+
+#: post-meta.php:317
+msgid "Service style"
+msgstr ""
+
+#: elementor/widgets/service-tab.php:13
+msgid "Service Tab"
+msgstr ""
+
+#: post-meta.php:320
+msgid "Service Template"
+msgstr ""
+
+#: post-meta.php:354
+msgid "Service Visiting Hours"
+msgstr ""
+
+#: post-types.php:30
+msgid "Services"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:176
+#: elementor/widgets/portfolio-slider.php:295
+#: elementor/widgets/post-grid.php:292 elementor/widgets/rt-team.php:274
+#: elementor/widgets/service-slider.php:318
+#: elementor/widgets/testimonial.php:281
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: elementor/widgets/info-box.php:102
+msgid "Shadow"
+msgstr ""
+
+#: module/rt-post-share.php:60
+msgid "Share via Email"
+msgstr ""
+
+#: widget/rt-feature-post.php:181 widget/rt-post-box.php:196
+#: widget/rt-post-tab.php:274 widget/rt-product-box.php:205
+#: elementor/widgets/counter.php:61 elementor/widgets/info-box.php:104
+#: elementor/widgets/portfolio-grid.php:105
+#: elementor/widgets/portfolio-grid.php:144
+#: elementor/widgets/portfolio-grid.php:194
+#: elementor/widgets/portfolio-isotope.php:116
+#: elementor/widgets/portfolio-isotope.php:154
+#: elementor/widgets/portfolio-isotope.php:202
+#: elementor/widgets/portfolio-isotope.php:212
+#: elementor/widgets/portfolio-masonry.php:116
+#: elementor/widgets/portfolio-masonry.php:154
+#: elementor/widgets/portfolio-masonry.php:202
+#: elementor/widgets/portfolio-masonry.php:212
+#: elementor/widgets/portfolio-slider.php:99
+#: elementor/widgets/portfolio-slider.php:134
+#: elementor/widgets/portfolio-slider.php:181
+#: elementor/widgets/post-grid.php:118 elementor/widgets/post-grid.php:143
+#: elementor/widgets/post-grid.php:151 elementor/widgets/post-grid.php:159
+#: elementor/widgets/post-grid.php:167 elementor/widgets/post-grid.php:175
+#: elementor/widgets/post-grid.php:183 elementor/widgets/service-grid.php:127
+#: elementor/widgets/service-grid.php:135
+#: elementor/widgets/service-isotope.php:146
+#: elementor/widgets/service-isotope.php:154
+#: elementor/widgets/service-isotope.php:198
+#: elementor/widgets/service-isotope.php:208
+#: elementor/widgets/service-slider.php:123
+#: elementor/widgets/service-slider.php:139
+#: elementor/widgets/text-with-button.php:68 elementor/widgets/title.php:73
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/portfolio-isotope.php:200
+#: elementor/widgets/portfolio-masonry.php:200
+#: elementor/widgets/service-isotope.php:196
+msgid "Show All Button"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:150
+msgid "Show Author Name"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:166
+msgid "Show Categories"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:158
+msgid "Show Comment Number"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:142
+msgid "Show Date"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:159
+msgid "Show More"
+msgstr ""
+
+#: widget/rt-feature-post.php:178 widget/rt-post-box.php:193
+#: widget/rt-post-tab.php:271 widget/rt-product-box.php:202
+msgid "Show no preview image : "
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:75 elementor/widgets/rt-team.php:102
+#: elementor/widgets/text-with-button.php:106
+msgid "Show or Hide Content. Default: off"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:132 elementor/widgets/testimonial.php:109
+msgid "Show or Hide Designation. Default: On"
+msgstr ""
+
+#: elementor/widgets/service-tab.php:89
+msgid "Show or Hide Doctors No. Default: On"
+msgstr ""
+
+#: elementor/widgets/service-tab.php:98
+msgid "Show or Hide Opening Hours No. Default: On"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:118
+msgid "Show or Hide Ratting. Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:141
+msgid "Show or Hide Social Medias. Default: On"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:127
+msgid "Show or Hide Thumbs. Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:149 elementor/widgets/service-grid.php:181
+msgid "Show Pagination"
+msgstr ""
+
+#: widget/rt-feature-post.php:194 widget/rt-post-box.php:216
+#: widget/rt-post-tab.php:296 widget/rt-product-box.php:225
+msgid "Show Post Image : "
+msgstr ""
+
+#: elementor/widgets/rt-team.php:148 elementor/widgets/service-grid.php:180
+msgid "Show Read More"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:182
+msgid "Show Reading Length"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:174
+msgid "Show Views"
+msgstr ""
+
+#: widget/sidebar-generator.php:113
+msgid "Sidebar ID not found"
+msgstr ""
+
+#: widget/sidebar-generator.php:66
+msgid "Sidebar name can\\'t be empty"
+msgstr ""
+
+#: widget/sidebar-generator.php:79
+msgid ""
+"Sidebar with the same name already exists. Please choose a different name"
+msgstr ""
+
+#: post-meta.php:296
+msgid "Skill Color"
+msgstr ""
+
+#: post-meta.php:286
+msgid "Skill Name"
+msgstr ""
+
+#: post-meta.php:291
+msgid "Skill Percentage (%)"
+msgstr ""
+
+#: widget/social-widget.php:137
+msgid "Skype URL"
+msgstr ""
+
+#: elementor/widgets/slider.php:186
+msgid "Slide Pause Time. Default: 3000"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:184
+#: elementor/widgets/portfolio-slider.php:303
+#: elementor/widgets/post-grid.php:300 elementor/widgets/rt-team.php:282
+#: elementor/widgets/service-slider.php:326
+#: elementor/widgets/testimonial.php:289
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: elementor/widgets/slider.php:179
+msgid "Slide speed in milliseconds. Default: 500"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:59
+msgid "Slider 1"
+msgstr ""
+
+#: elementor/widgets/slider.php:177
+msgid "Slider Animatin Speed"
+msgstr ""
+
+#: elementor/widgets/slider.php:158
+msgid "Slider Effect"
+msgstr ""
+
+#: elementor/widgets/slider.php:172
+msgid "Slider Effect. Default: boxRainReverse"
+msgstr ""
+
+#: elementor/widgets/slider.php:37
+msgid "Slider Layout"
+msgstr ""
+
+#: elementor/widgets/slider.php:39
+msgid "Slider Layout 1"
+msgstr ""
+
+#: elementor/widgets/slider.php:40
+msgid "Slider Layout 2"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:124
+#: elementor/widgets/portfolio-slider.php:244
+#: elementor/widgets/post-grid.php:240 elementor/widgets/rt-team.php:222
+#: elementor/widgets/service-slider.php:267 elementor/widgets/slider.php:126
+#: elementor/widgets/testimonial.php:229
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/widgets/slider.php:184
+msgid "Slider Pause Time"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:112
+#: elementor/widgets/portfolio-slider.php:233
+#: elementor/widgets/post-grid.php:229 elementor/widgets/rt-team.php:210
+#: elementor/widgets/service-slider.php:256
+#: elementor/widgets/testimonial.php:217
+msgid "Small Phones: < 480px"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:137
+msgid "Social Media Display"
+msgstr ""
+
+#: post-meta.php:268 post-meta.php:453
+msgid "Socials"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:33
+msgid "Solid"
+msgstr ""
+
+#: post-meta.php:419
+msgid "Start Date"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:161
+#: elementor/widgets/portfolio-slider.php:280
+#: elementor/widgets/post-grid.php:277 elementor/widgets/rt-team.php:259
+#: elementor/widgets/service-slider.php:303
+#: elementor/widgets/testimonial.php:266
+msgid "Stop autoplay on mouse hover. Default: On"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:157
+#: elementor/widgets/portfolio-slider.php:276
+#: elementor/widgets/post-grid.php:273 elementor/widgets/rt-team.php:255
+#: elementor/widgets/service-slider.php:299
+#: elementor/widgets/testimonial.php:262
+msgid "Stop on Hover"
+msgstr ""
+
+#: module/rt-post-share.php:40
+msgid "StumbleUpon"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:110 elementor/widgets/counter.php:38
+#: elementor/widgets/info-box.php:35 elementor/widgets/post-grid.php:54
+#: elementor/widgets/pricing-table.php:178
+#: elementor/widgets/progress-circle.php:103
+#: elementor/widgets/rt-divider.php:31 elementor/widgets/rt-team.php:53
+#: elementor/widgets/service-slider.php:54
+#: elementor/widgets/service-slider.php:157
+#: elementor/widgets/testimonial.php:60 elementor/widgets/testimonial.php:136
+#: elementor/widgets/text-with-button.php:141 elementor/widgets/video.php:35
+msgid "Style"
+msgstr ""
+
+#: post-meta.php:324 widget/rt-post-box.php:211 widget/rt-post-tab.php:289
+#: widget/rt-product-box.php:220 elementor/widgets/counter.php:40
+#: elementor/widgets/cta.php:37 elementor/widgets/info-box.php:37
+#: elementor/widgets/testimonial.php:62 elementor/widgets/video.php:37
+msgid "Style 1"
+msgstr ""
+
+#: elementor/widgets/info-box.php:46
+msgid "Style 10"
+msgstr ""
+
+#: post-meta.php:325 widget/rt-post-box.php:212 widget/rt-post-tab.php:290
+#: widget/rt-product-box.php:221 elementor/widgets/counter.php:41
+#: elementor/widgets/cta.php:38 elementor/widgets/info-box.php:38
+#: elementor/widgets/testimonial.php:63 elementor/widgets/video.php:38
+msgid "Style 2"
+msgstr ""
+
+#: elementor/widgets/cta.php:39 elementor/widgets/info-box.php:39
+#: elementor/widgets/testimonial.php:64 elementor/widgets/video.php:39
+msgid "Style 3"
+msgstr ""
+
+#: elementor/widgets/info-box.php:40 elementor/widgets/testimonial.php:65
+msgid "Style 4"
+msgstr ""
+
+#: elementor/widgets/info-box.php:41
+msgid "Style 5"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:66
+msgid "Style 5 ( Grid Layout )"
+msgstr ""
+
+#: elementor/widgets/info-box.php:42
+msgid "Style 6"
+msgstr ""
+
+#: elementor/widgets/info-box.php:43
+msgid "Style 7"
+msgstr ""
+
+#: elementor/widgets/info-box.php:44
+msgid "Style 8"
+msgstr ""
+
+#: elementor/widgets/info-box.php:45
+msgid "Style 9"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:53 elementor/widgets/slider.php:64
+#: elementor/widgets/text-with-button.php:90 elementor/widgets/title.php:102
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:141 elementor/widgets/slider.php:91
+#: elementor/widgets/text-with-button.php:169 elementor/widgets/title.php:163
+msgid "Sub Title Color"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:125
+#: elementor/widgets/text-with-button.php:156 elementor/widgets/title.php:127
+msgid "Sub Title Style"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:23
+msgid "Sunday"
+msgstr ""
+
+#: elementor/widgets/info-box.php:184
+msgid "Svg Color"
+msgstr ""
+
+#: elementor/widgets/title.php:154
+msgid "SVG Image Color"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:98
+#: elementor/widgets/portfolio-grid.php:239
+#: elementor/widgets/portfolio-isotope.php:257
+#: elementor/widgets/portfolio-masonry.php:257
+#: elementor/widgets/portfolio-slider.php:219
+#: elementor/widgets/post-grid.php:215 elementor/widgets/rt-team.php:196
+#: elementor/widgets/service-grid.php:225
+#: elementor/widgets/service-isotope.php:253
+#: elementor/widgets/service-slider.php:242
+#: elementor/widgets/testimonial.php:203
+msgid "Tablets: > 767px"
+msgstr ""
+
+#: post-types.php:23
+msgid "Team"
+msgstr ""
+
+#: post-types.php:55
+msgid "Team Categories"
+msgstr ""
+
+#: post-types.php:54
+msgid "Team Category"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:55
+msgid "Team Grid 1"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:56
+msgid "Team Grid 2"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:57
+msgid "Team Grid 3"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:58
+msgid "Team Grid 4"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:59
+msgid "Team Grid 5"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:60
+msgid "Team Grid 6"
+msgstr ""
+
+#: post-types.php:19
+msgid "Team Member"
+msgstr ""
+
+#: post-meta.php:304
+msgid "Team Member Contact"
+msgstr ""
+
+#: post-meta.php:249
+msgid "Team Member Settings"
+msgstr ""
+
+#: post-meta.php:279
+msgid "Team Member Skills"
+msgstr ""
+
+#: post-types.php:20
+msgid "Team Members"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:61
+msgid "Team Slider 1"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:62
+msgid "Team Slider 2"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:63
+msgid "Team Slider 3"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:64
+msgid "Team Slider 4"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:65
+msgid "Team Slider 5"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:66
+msgid "Team Slider 6"
+msgstr ""
+
+#: elementor/widgets/slider.php:59
+msgid "Test Title"
+msgstr ""
+
+#: post-types.php:44
+msgid "Testimonial"
+msgstr ""
+
+#: post-types.php:73
+msgid "Testimonial Categories"
+msgstr ""
+
+#: post-types.php:72
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-meta.php:467
+msgid "Testimonial Info"
+msgstr ""
+
+#: post-types.php:45
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:45
+msgid "Text Align"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:35
+msgid "Text Style"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:37
+msgid "Text Style 1"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:38
+msgid "Text Style 2"
+msgstr ""
+
+#: elementor/widgets/counter.php:110 elementor/widgets/progress-circle.php:88
+msgid "The total duration of the count animation in milisecond eg. 5000"
+msgstr ""
+
+#: elementor/widgets/cta.php:46 elementor/widgets/info-box.php:53
+#: elementor/widgets/progress-circle.php:40
+msgid "Theme"
+msgstr ""
+
+#: elementor/widgets/contact-address.php:32
+#: elementor/widgets/contact-info.php:32
+msgid "Theme Style"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:123
+msgid "Thumbs Display"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:20
+msgid "Thursday"
+msgstr ""
+
+#: widget/about-widget.php:53 widget/address-widget.php:76
+#: widget/rt-calltoaction-widget.php:53 widget/social-widget.php:109
+#: elementor/widgets/about-image-text.php:47
+#: elementor/widgets/about-info.php:41 elementor/widgets/counter.php:96
+#: elementor/widgets/cta.php:57 elementor/widgets/info-box.php:196
+#: elementor/widgets/nav-menu.php:40 elementor/widgets/pricing-table.php:102
+#: elementor/widgets/progress-bar.php:36
+#: elementor/widgets/progress-circle.php:74 elementor/widgets/rt-team.php:90
+#: elementor/widgets/service-tab.php:69 elementor/widgets/slider.php:58
+#: elementor/widgets/testimonial.php:83
+#: elementor/widgets/text-with-button.php:84 elementor/widgets/title.php:96
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/title.php:48
+msgid "Title Align"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:58
+#: elementor/widgets/text-with-button.php:66 elementor/widgets/title.php:62
+#: elementor/widgets/title.php:71
+msgid "Title Bar"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:175 elementor/widgets/title.php:144
+msgid "Title Bar Color"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:132 elementor/widgets/counter.php:132
+#: elementor/widgets/cta.php:136 elementor/widgets/info-box.php:210
+#: elementor/widgets/pricing-table.php:202
+#: elementor/widgets/progress-circle.php:116 elementor/widgets/slider.php:82
+#: elementor/widgets/text-with-button.php:163 elementor/widgets/title.php:135
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/portfolio-isotope.php:146
+#: elementor/widgets/portfolio-masonry.php:146
+#: elementor/widgets/post-grid.php:110
+#: elementor/widgets/service-isotope.php:138
+msgid "Title count"
+msgstr ""
+
+#: elementor/widgets/counter.php:160 elementor/widgets/portfolio-grid.php:130
+#: elementor/widgets/portfolio-isotope.php:140
+#: elementor/widgets/portfolio-masonry.php:140
+#: elementor/widgets/portfolio-slider.php:120
+#: elementor/widgets/service-isotope.php:132
+msgid "Title Font Size"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:59 elementor/widgets/title.php:63
+msgid "Title Image"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:117
+#: elementor/widgets/info-box.php:203 elementor/widgets/pricing-table.php:195
+#: elementor/widgets/progress-circle.php:109
+#: elementor/widgets/text-with-button.php:148 elementor/widgets/title.php:36
+#: elementor/widgets/title.php:119
+msgid "Title Style"
+msgstr ""
+
+#: elementor/widgets/title.php:38
+msgid "Title Style 1"
+msgstr ""
+
+#: elementor/widgets/title.php:39
+msgid "Title Style 2"
+msgstr ""
+
+#: elementor/widgets/title.php:40
+msgid "Title Style 3"
+msgstr ""
+
+#: elementor/widgets/title.php:41
+msgid "Title Style 4 ( left Bar )"
+msgstr ""
+
+#: elementor/widgets/cta.php:64 elementor/widgets/cta.php:73
+msgid "Title Typo"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:136
+#: elementor/widgets/portfolio-slider.php:126
+#: elementor/widgets/service-grid.php:119
+#: elementor/widgets/service-slider.php:115
+msgid "Title Word count"
+msgstr ""
+
+#: widget/rt-feature-post.php:167 widget/rt-open-hour-widget.php:88
+#: widget/rt-post-box.php:182 widget/rt-post-tab.php:268
+#: widget/rt-product-box.php:191 widget/rt-recent-post-widget.php:94
+msgid "Title:"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:96
+msgid "To"
+msgstr ""
+
+#: post-meta.php:73
+msgid "Top Bar"
+msgstr ""
+
+#: post-meta.php:83
+msgid "Top Bar Layout"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:73 elementor/widgets/service-tab.php:46
+#: elementor/widgets/testimonial.php:98
+msgid "Total number of items"
+msgstr ""
+
+#: elementor/widgets/service-tab.php:53
+msgid "Total number of Tab"
+msgstr ""
+
+#: elementor/widgets/counter.php:97 elementor/widgets/progress-bar.php:37
+msgid "Total Posts"
+msgstr ""
+
+#: post-meta.php:63
+msgid "Transparent Header"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:18
+msgid "Tuesday"
+msgstr ""
+
+#: module/rt-post-share.php:45
+msgid "Tumblr"
+msgstr ""
+
+#: module/rt-post-share.php:25
+msgid "Twitter"
+msgstr ""
+
+#: widget/social-widget.php:121
+msgid "Twitter URL"
+msgstr ""
+
+#: elementor/widgets/pricing-table.php:121
+msgid "Unit Name"
+msgstr ""
+
+#: post-meta.php:396
+msgid "Upload service hover image in case of icon not selected"
+msgstr ""
+
+#: post-meta.php:391
+msgid "Upload service image in case of icon not selected"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:67
+msgid "URL(optional)"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:125
+#: elementor/widgets/portfolio-isotope.php:135
+#: elementor/widgets/portfolio-masonry.php:135
+#: elementor/widgets/portfolio-slider.php:115
+#: elementor/widgets/service-grid.php:114
+#: elementor/widgets/service-isotope.php:127
+#: elementor/widgets/service-slider.php:110
+msgid "Use -1 for showing all items( Showing items per category )"
+msgstr ""
+
+#: elementor/widgets/video.php:46
+msgid "Video URL"
+msgstr ""
+
+#: elementor/views/portfolio-grid-4.php:106
+#: elementor/widgets/portfolio-slider.php:189
+msgid "View Project"
+msgstr ""
+
+#: module/rt-post-views.php:65
+msgid "Views"
+msgstr ""
+
+#: clenix-core.php:206
+msgid "Visiting Hours"
+msgstr ""
+
+#: demo-importer.php:33
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website."
+msgstr ""
+
+#: post-meta.php:427
+msgid "Website"
+msgstr ""
+
+#: widget/rt-open-hour-widget.php:19
+msgid "Wednesday"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:70
+msgid "Weight"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:85
+msgid "Wellcome To Clenix"
+msgstr ""
+
+#: elementor/widgets/rt-divider.php:46
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/portfolio-grid.php:152
+#: elementor/widgets/portfolio-isotope.php:161
+#: elementor/widgets/portfolio-masonry.php:161
+#: elementor/widgets/portfolio-slider.php:142
+#: elementor/widgets/post-grid.php:96 elementor/widgets/rt-team.php:120
+#: elementor/widgets/service-grid.php:142
+#: elementor/widgets/service-isotope.php:161
+#: elementor/widgets/service-slider.php:130
+#: elementor/widgets/service-tab.php:77 elementor/widgets/testimonial.php:91
+msgid "Word count"
+msgstr ""
+
+#: elementor/widgets/rt-team.php:75 elementor/widgets/service-tab.php:48
+#: elementor/widgets/testimonial.php:100
+msgid "Write -1 to show all"
+msgstr ""
+
+#: widget/rt-recent-post-widget.php:10
+msgid "Your site&#8217;s most recent Posts with Image."
+msgstr ""
+
+#: widget/social-widget.php:141
+msgid "Youtube URL"
+msgstr ""
